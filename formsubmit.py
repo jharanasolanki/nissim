@@ -1,4 +1,4 @@
-#!C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\python.exe
+#!/usr/bin/env python
 from random import random
 import requests
 import time
