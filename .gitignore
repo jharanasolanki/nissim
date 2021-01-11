@@ -1,0 +1,12 @@
+# python
+*.pyc
+*.pyo
+__pycache__
+/.venv/
+
+# generated files and folders
+/out
+*.stamp
+/tools
+/node_modules
+/.pydmt/
