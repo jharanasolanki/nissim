@@ -1,0 +1,10 @@
+[core]
+account = mark.veltzer@gmail.com
+project = Nissim
+
+[compute]
+zone = us-central1-a
+
+[container]
+new_scopes_behavior = true
+
